@@ -1,5 +1,6 @@
-Projects I have worked for CS 396: Generative Methods with Prof. Kate Compton (@galaxykate)!
+Checkout the collection of interactive projects made with P5.js: https://cindyhu2023.github.io/CS396-GenMeth/#
 
+Copyright goes to Prof. Kate Compton (@galaxykate) at Northwestern University
 Original source and template: https://github.com/galaxykate/GenerativeMethodsClass
 
 Other sources:
